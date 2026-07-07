@@ -1,4 +1,4 @@
-# flutter_nearfix
+# near-by finder
 
 A new Flutter project.
 
